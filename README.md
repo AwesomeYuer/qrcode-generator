@@ -1,3 +1,9 @@
+```shell
+# demo running
+npm run crash
+```
+
+
 # qrcode-generator
 QR Code Generator implementation in JavaScript, Java and more
 
