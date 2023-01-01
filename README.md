@@ -1,4 +1,5 @@
 ```shell
+npm i lite-server
 # demo running
 npm run crash
 ```
